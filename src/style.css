@@ -1,0 +1,11 @@
+.individualAnimal {
+    text-align: center;
+    border: 1px solid black;
+    height: 200px;
+    width: 200px;
+}
+
+.darkModeActivate {
+    color: white;
+    background: black;
+}
